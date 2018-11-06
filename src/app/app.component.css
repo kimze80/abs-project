@@ -1,0 +1,18 @@
+/* APP - middle title text */
+.data-text {
+  font-size: 14px;
+  font-family: arial;
+  text-align: center;
+  padding: 50px;
+}
+
+/* TABLE and CHART */
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.chart {
+  width: 450px;
+}
